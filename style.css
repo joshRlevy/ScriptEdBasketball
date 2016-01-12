@@ -1,3 +1,15 @@
 body {
     font-family: Helvetica;
 }
+
+#player-one-score{
+    font-family: comic ;
+    font-style: italic ; 
+    color: blue ;
+}
+
+#player-two-score{ 
+    font-family: comic ;
+    font-style: italic ;
+    color: red ;
+}
